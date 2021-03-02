@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
+
+body{
+    padding: 10%;
+    background-color: cornsilk;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bigHead div{
+    display: flex;
+    padding: 0 0 5% 0;
+    font-size: 0.5em;
+}
+
+.mainlogo{
+    font-size: 4em;
+    color: coral;
+    font-weight: 800;
+}
+
+.menuicon{
+    width: 40%;
+}
+
+.menuicon i{
+    font-size: 2rem;
+}
+
+.firstHead{
+    display: flex;
+    justify-content: space-between;
+}
+
+.headul ul{
+    display: flex;
+    list-style: none;
+    font-size: 3em;
+    justify-content: flex-end;
+    padding-top: 5%;
+}
+
+.headul{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.secondHead{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1em;
+}
+
+.secondHead ul{
+    display: flex;
+    list-style: none;
+    font-size: 2em;
+    width: 40%;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.search input{
+    width: 75%;
+    border: none;
+    border-bottom: rgb(95, 105, 40) solid 1px;
+    font-size: 3em;
+}
+
+.search i{
+    font-size: 3.5rem;
+    color: rgb(95, 105, 40);
+}
+
+.prediction{
+    font-size: 2em;
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.bigAd img{
+    width: 100%;
+    height: 100%;
+}
+
+.firstmenu{
+    padding: 3% 0;
+}
+
+.finding{
+    display: flex;
+    justify-content: space-around;
+}
+
+.finding li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    font-size: 1.5em;
+}
+
+.finding li i{
+    font-size: 1.5em;
+}
+
+.lists{
+    display: flex;
+}
+
+.lists p{
+    width: 40%;
+    margin: 10px;
+}
+
+.lists p img{
+    width: 100%;
+}
+
+.charts{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+}
+
+.chartWords{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    font-size: 13px;
+}
+
+.chart1number{
+    font-weight: 1000;
+}
+
+.firstFooter{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info{
+    font-size: 2em;
+}
+
+.bigInfo{
+    padding: 2%;
+}
+
+.box{
+    border: 1px solid;
+    padding: 10px;
+}
+
+.footPage{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+.footPage ul{
+    list-style: none;
+    justify-content: space-between;
+    margin: 10% 0;
+}
+
+.bigfootpage{
+
+}
+
+
